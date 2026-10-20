@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Karan Ramesh — Python, SQL and data-driven applications</title>
+  <desc id="description">A charcoal and emerald banner highlighting Python, SQL and Jupyter notebooks.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#0e1424"/>
+      <stop offset="1" stop-color="#070a14"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#background)"/>
+  <path d="M850 0v300M970 0v300M1090 0v300M790 60h410M790 150h410M790 240h410" stroke="#1b2c39" fill="none"/>
+  <path d="M890 208l61-59 61 18 71-78 73 29" stroke="#10b981" stroke-width="3" fill="none"/>
+  <circle cx="1083" cy="89" r="7" fill="#10b981"/>
+  <rect x="48" y="47" width="28" height="4" rx="2" fill="#10b981"/>
+  <text x="89" y="55" fill="#a7b8cb" font-size="15" letter-spacing="3" font-family="Segoe UI,Arial,sans-serif">WEB APPLICATIONS / DATA / AUTOMATION</text>
+  <text x="48" y="128" fill="#eef2fb" font-size="54" font-weight="700" letter-spacing="-1" font-family="Segoe UI,Arial,sans-serif">Karan Ramesh</text>
+  <text x="50" y="169" fill="#a7b8cb" font-size="22" font-family="Segoe UI,Arial,sans-serif">Turning operational problems into working software.</text>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600">
+    <rect x="48" y="212" width="124" height="40" rx="9" fill="#243142"/>
+    <text x="73" y="238" fill="#ffdb70">Python</text>
+    <rect x="184" y="212" width="88" height="40" rx="9" fill="#162f3b"/>
+    <text x="211" y="238" fill="#7dd3fc">SQL</text>
+    <rect x="284" y="212" width="214" height="40" rx="9" fill="#302b2b"/>
+    <text x="305" y="238" fill="#fdba74">Jupyter Notebooks</text>
+    <text x="1055" y="260" fill="#71869e" font-size="14" font-weight="400">@karna012</text>
+  </g>
+</svg>
