@@ -11,7 +11,7 @@ to deployment on Linux systems.
 
 **Python · SQL · JavaScript · React · HTML · CSS · Jupyter Notebooks**
 
-[Selected work](#selected-work) · [Code by skill](#code-by-skill) · [Project walkthroughs](projects/README.md) · [Live application](https://degenpredictions.com)
+[Selected work](#selected-work) · [Project walkthroughs](projects/README.md) · [LinkedIn](https://www.linkedin.com/in/karan-ramesh-83b933189/) · [Email](mailto:rameshkaran66@gmail.com)
 
 ## Selected work
 
@@ -67,6 +67,9 @@ walkthroughs explain architecture, useful code entry points and current limitati
 ---
 
 **Interested in full-stack Python developer opportunities.**
+
+[Connect on LinkedIn](https://www.linkedin.com/in/karan-ramesh-83b933189/) · [rameshkaran66@gmail.com](mailto:rameshkaran66@gmail.com)
+
 For a quick technical review, start with [Xstreem's API and database](projects/xstreem-car-care.md)
 or [Smart Dairy's domain rules](projects/smart-dairy.md).
 
