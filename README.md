@@ -11,9 +11,9 @@ to deployment on Linux systems.
 
 **Python · SQL · JavaScript · React · HTML · CSS · Jupyter Notebooks**
 
-[Selected work](#selected-work) · [Project walkthroughs](projects/README.md) · [LinkedIn](https://www.linkedin.com/in/karan-ramesh-83b933189/) · [Email](mailto:rameshkaran66@gmail.com)
+[My projects](#My-projects) · [Project walkthroughs](projects/README.md) · [LinkedIn](https://www.linkedin.com/in/karan-ramesh-83b933189/) · [Email](mailto:rameshkaran66@gmail.com)
 
-## Selected work
+## My Projects
 
 ### 01 — Degen Predictions
 
