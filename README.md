@@ -32,7 +32,10 @@ A multi-sport analytics website with fixtures, model-based predictions, account
 and membership flows, an admin console and Telegram automation. The website is
 hosted on Raspberry Pi, with heavier processing kept on a separate PC.
 
-[Visit the website](https://degenpredictions.com) · Application source remains private.
+[Visit the website](https://degenpredictions.com) · [Public source snapshot](https://github.com/karna012/degen-predictions)
+
+The public repository is an earlier source snapshot; the live site includes
+newer changes. Production credentials and customer databases are not included.
 
 ### 03 / Xstreem Car Care
 
