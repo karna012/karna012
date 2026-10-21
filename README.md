@@ -6,7 +6,7 @@
 
 I build Python web applications, operational dashboards and data workflows.
 My projects connect practical business needs with APIs, relational databases,
-responsive interfaces and deployment on Raspberry Pi.
+responsive interfaces and deployment on Linux.
 
 **Python · SQL · Jupyter Notebooks · HTML · CSS · JavaScript**
 
