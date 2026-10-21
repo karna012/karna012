@@ -1,11 +1,11 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/profile-banner-mobile.svg">
-  <img src="assets/profile-banner.svg" alt="Karan Ramesh — full-stack Python developer. Interfaces, APIs, data and deployment." width="1200">
+  <img src="assets/profile-banner.svg" alt="Karan Ramesh — full-stack Python developer. Frontend, backend, databases and deployment." width="1200">
 </picture>
 
 # Full-stack Python developer
 
-I build web applications that connect **useful interfaces, Python APIs and SQL databases**.
+I build web applications that connect **responsive frontends, Python backends and SQL databases**.
 My work spans business dashboards, sports analytics and automation—from the browser
 to deployment on Linux systems.
 

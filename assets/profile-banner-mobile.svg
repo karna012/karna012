@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="520" viewBox="0 0 720 520" role="img" aria-labelledby="title description">
   <title id="title">Karan Ramesh — Full-stack Python developer</title>
-  <desc id="description">Python, SQL, JavaScript, React, FastAPI, Flask, Linux and Jupyter.</desc>
+  <desc id="description">Frontend, backend, databases and deployment. Python, SQL, JavaScript, React, FastAPI, Flask, Linux and Jupyter.</desc>
   <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101a2c"/><stop offset="1" stop-color="#080d17"/></linearGradient></defs>
   <rect width="720" height="520" rx="24" fill="url(#bg)"/>
   <rect x="40" y="42" width="40" height="5" rx="2.5" fill="#5eead4"/>
   <g font-family="Segoe UI,Arial,sans-serif">
     <text x="40" y="93" fill="#b6c5d9" font-size="24" font-weight="600" letter-spacing="2">FULL-STACK PYTHON DEVELOPER</text>
     <text x="37" y="174" fill="#f1f5fb" font-size="65" font-weight="700" letter-spacing="-2">Karan Ramesh</text>
-    <text x="40" y="224" fill="#b6c5d9" font-size="31">Interfaces. APIs. Data. Deployed.</text>
+    <text x="40" y="224" fill="#b6c5d9" font-size="28">Frontend · Backend · Databases · Deployment</text>
     <path d="M40 260h640" stroke="#2b3b52"/>
     <text x="40" y="307" fill="#5eead4" font-size="30">Python / SQL / JavaScript / React</text>
     <text x="40" y="352" fill="#8fa5bf" font-size="28">FastAPI / Flask / Linux / Jupyter</text>
     <rect x="40" y="403" width="192" height="65" rx="12" fill="#15273b"/>
     <rect x="264" y="403" width="192" height="65" rx="12" fill="#122e30"/>
     <rect x="488" y="403" width="192" height="65" rx="12" fill="#25243b"/>
-    <text x="136" y="445" text-anchor="middle" fill="#7dd3fc" font-size="28">Interface</text>
-    <text x="360" y="445" text-anchor="middle" fill="#5eead4" font-size="28">Python</text>
-    <text x="584" y="445" text-anchor="middle" fill="#c4b5fd" font-size="28">SQL</text>
+    <text x="136" y="445" text-anchor="middle" fill="#7dd3fc" font-size="28">Frontend</text>
+    <text x="360" y="445" text-anchor="middle" fill="#5eead4" font-size="28">Backend</text>
+    <text x="584" y="445" text-anchor="middle" fill="#c4b5fd" font-size="28">Databases</text>
     <path d="M232 436h32M456 436h32" stroke="#456182" stroke-width="2"/>
   </g>
 </svg>
