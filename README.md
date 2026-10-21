@@ -1,79 +1,75 @@
-<p align="center">
-  <img src="assets/profile-banner.svg" alt="Karan Ramesh — Python, SQL and Jupyter notebooks. Web applications, data and automation." width="1200">
-</p>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/profile-banner-mobile.svg">
+  <img src="assets/profile-banner.svg" alt="Karan Ramesh — full-stack Python developer. Interfaces, APIs, data and deployment." width="1200">
+</picture>
 
-# Hi, I'm Karan
+# Full-stack Python developer
 
-I build Python web applications, operational dashboards and data workflows.
-My projects connect practical business needs with APIs, relational databases,
-responsive interfaces and deployment on Linux systems.
+I build web applications that connect **useful interfaces, Python APIs and SQL databases**.
+My work spans business dashboards, sports analytics and automation—from the browser
+to deployment on Linux systems.
 
-**Python · SQL · Jupyter Notebooks · HTML · CSS · JavaScript · React js**
+**Python · SQL · JavaScript · React · HTML · CSS · Jupyter Notebooks**
 
-[Explore my projects](#selected-projects) · [Code by skill](#code-by-skill) · [Degen Predictions](https://degenpredictions.com)
+[Selected work](#selected-work) · [Code by skill](#code-by-skill) · [Project walkthroughs](projects/README.md) · [Live application](https://degenpredictions.com)
 
-## Selected projects
+## Selected work
 
-### 01 / Smart Mini-Dairy Dashboard
+### 01 — Degen Predictions
 
-**Python · FastAPI · SQLAlchemy · SQLite · Jinja2**
+**Sports analytics · Flask · Python · SQL · server-rendered UI**
 
-A dairy-operations application for herd profiles, station monitoring, milk-yield
-reports and feed inventory. Includes CSV/XLSX imports, business-rule tests and a
-responsive dark/light interface.
+A multi-sport website connecting data pipelines and model outputs with fixtures,
+prediction pages and an admin interface. Explore the integration between offline
+analysis and the web application.
 
-[Source & setup](https://github.com/karna012/SmartMiniDairyDashboard) · [Data models](https://github.com/karna012/SmartMiniDairyDashboard/blob/main/models.py) · [Business-rule tests](https://github.com/karna012/SmartMiniDairyDashboard/blob/main/tests/test_business_rules.py)
+[Live website ↗](https://degenpredictions.com) · [Source](https://github.com/karna012/degen-predictions) · [Engineering walkthrough](projects/degen-predictions.md)
 
-### 02 / Degen Predictions
+### 02 — Xstreem Car Care
 
-**Python · Flask · SQLite · HTML / CSS / JavaScript · Raspberry Pi**
+**Business application · FastAPI · SQLite · JavaScript · Ollama**
 
-A multi-sport analytics website with fixtures, model-based predictions, account
-and membership flows, an admin console and Telegram automation. The website is
-hosted on Raspberry Pi, with heavier processing kept on a separate PC.
+A customer website and admin workspace for bookings, customers, vehicles,
+services and payment records, with a locally hosted AI chatbot.
 
-[Visit the website](https://degenpredictions.com) · [Public source snapshot](https://github.com/karna012/degen-predictions)
+[Source](https://github.com/karna012/Xstreem_car_care) · [Python API](https://github.com/karna012/Xstreem_car_care/blob/main/main.py) · [Engineering walkthrough](projects/xstreem-car-care.md)
 
-The public repository is an earlier source snapshot; the live site includes
-newer changes. Production credentials and customer databases are not included.
+### 03 — Smart Mini-Dairy Dashboard
 
-### 03 / Xstreem Car Care
+**Operations dashboard · FastAPI · SQLAlchemy · SQLite · Jinja2**
 
-**Python · FastAPI · SQL / SQLite · Ollama · HTML / CSS / JavaScript**
+Herd profiles, station activity, milk-yield reports and feed inventory in one
+interface. Includes CSV/XLSX imports and tests for milking-cycle and station rules.
 
-A car-care business application bringing together bookings, customer and vehicle
-records, services and payments. A local Ollama integration answers business
-questions through the website's chatbot.
+[Source](https://github.com/karna012/SmartMiniDairyDashboard) · [Tests](https://github.com/karna012/SmartMiniDairyDashboard/blob/main/tests/test_business_rules.py) · [Engineering walkthrough](projects/smart-dairy.md)
 
-[Source & project overview](https://github.com/karna012/Xstreem_car_care) · [SQL implementation](https://github.com/karna012/Xstreem_car_care/blob/main/database.py) · [AI integration](https://github.com/karna012/Xstreem_car_care/blob/main/ai_service.py)
+### Supporting work — Python data analysis
 
-### 04 / Python Data Analysis
+**Jupyter Notebooks · pandas · NumPy · Matplotlib · seaborn**
 
-**Python · Jupyter Notebooks · pandas · NumPy · Matplotlib · seaborn**
-
-A collection of exploratory data-analysis notebooks covering data inspection,
-tabular analysis and visualization. These are learning and analysis artifacts,
-separate from my deployed applications.
-
-[Browse the notebooks](https://github.com/karna012/Data-Analysis-using-python)
+Five learning notebooks covering data cleaning, aggregation, visualization and
+introductory classification. [Browse the notebook guide →](https://github.com/karna012/Data-Analysis-using-python)
 
 ## Code by skill
 
-| Skill | Where to see it |
-| --- | --- |
-| **Python** | [FastAPI routes, imports and reporting](https://github.com/karna012/SmartMiniDairyDashboard/blob/main/app.py) |
-| **SQL / SQLite** | [Relational tables, joins and queries](https://github.com/karna012/Xstreem_car_care/blob/main/database.py) · [SQLAlchemy models and indexes](https://github.com/karna012/SmartMiniDairyDashboard/blob/main/models.py) |
-| **Jupyter Notebooks** | [Python data-analysis collection](https://github.com/karna012/Data-Analysis-using-python) |
-| **HTML / CSS / JavaScript** | [Server-rendered UI](https://github.com/karna012/SmartMiniDairyDashboard/tree/main/templates) · [Theme and interaction assets](https://github.com/karna012/SmartMiniDairyDashboard/tree/main/static) |
-| **Testing** | [Domain-rule tests](https://github.com/karna012/SmartMiniDairyDashboard/blob/main/tests/test_business_rules.py) · [Browser theme checks](https://github.com/karna012/SmartMiniDairyDashboard/blob/main/tests/check_degen_theme.py) |
-| **API / AI integration** | [Async HTTP client and local Ollama integration](https://github.com/karna012/Xstreem_car_care/blob/main/ai_service.py) |
+| Area | Stack | Start here |
+| --- | --- | --- |
+| **Backend** | Python, FastAPI, Flask | [Routes and validation](https://github.com/karna012/Xstreem_car_care/blob/main/main.py) |
+| **Frontend** | HTML, CSS, JavaScript; React in my broader skill set | [Templates](https://github.com/karna012/SmartMiniDairyDashboard/tree/main/templates) · [Dark/light theme](https://github.com/karna012/SmartMiniDairyDashboard/tree/main/static) |
+| **Data layer** | SQL, SQLite, SQLAlchemy | [Queries and joins](https://github.com/karna012/Xstreem_car_care/blob/main/database.py) · [Relational models](https://github.com/karna012/SmartMiniDairyDashboard/blob/main/models.py) |
+| **Integration** | HTTP APIs, local AI | [Async Ollama client](https://github.com/karna012/Xstreem_car_care/blob/main/ai_service.py) |
+| **Testing** | pytest, browser checks | [Business-rule tests](https://github.com/karna012/SmartMiniDairyDashboard/blob/main/tests/test_business_rules.py) · [UI checks](https://github.com/karna012/SmartMiniDairyDashboard/blob/main/tests/check_degen_theme.py) |
+| **Analysis** | Python, SQL, Jupyter | [Data-analysis notebooks](https://github.com/karna012/Data-Analysis-using-python) |
 
-## What I'm building around
+The featured web apps use server-rendered templates and JavaScript. The project
+walkthroughs explain architecture, useful code entry points and current limitations.
 
-- **Backend development:** Python, FastAPI, Flask, relational data and APIs.
-- **Data work:** SQL, pandas, NumPy and notebook-based exploration.
-- **End-to-end delivery:** templates, mobile layouts, Git, Linux and Raspberry Pi hosting.
+---
 
-Public application repositories include setup instructions and implementation
-details. Review each project's security notes before deploying with real data;
-live databases and production credentials are not portfolio assets.
+**Interested in full-stack Python developer opportunities.**
+For a quick technical review, start with [Xstreem's API and database](projects/xstreem-car-care.md)
+or [Smart Dairy's domain rules](projects/smart-dairy.md).
+
+<sub>Degen's public repository is an earlier source snapshot than the live site.
+Application repositories document their security and setup limitations.
+Production credentials and live customer databases are not portfolio assets.</sub>
