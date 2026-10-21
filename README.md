@@ -6,9 +6,9 @@
 
 I build Python web applications, operational dashboards and data workflows.
 My projects connect practical business needs with APIs, relational databases,
-responsive interfaces and deployment on Linux.
+responsive interfaces and deployment on Linux systems.
 
-**Python · SQL · Jupyter Notebooks · HTML · CSS · JavaScript**
+**Python · SQL · Jupyter Notebooks · HTML · CSS · JavaScript · React js**
 
 [Explore my projects](#selected-projects) · [Code by skill](#code-by-skill) · [Degen Predictions](https://degenpredictions.com)
 
