@@ -20,8 +20,8 @@ Browser ← Jinja2 / JavaScript ← Flask routes ← prediction modules
                          SQLite analytics / feedback
 ```
 
-The live website is hosted on Linux on Raspberry Pi, with heavier processing
-kept on a separate PC. The **public repository is an earlier snapshot**: it still
+The live website is hosted on a Linux server, with heavier processing
+kept on a separate machine. The **public repository is an earlier snapshot**: it still
 contains legacy investment modules, EC2 deployment scripts and DynamoDB account
 storage. These are not a claim about the current live deployment.
 

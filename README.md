@@ -7,11 +7,11 @@
 
 I build web applications that connect **responsive frontends, Python backends and SQL databases**.
 My work spans business dashboards, sports analytics and automation—from the browser
-to deployment on Linux systems.
+to deployment on Linux machines and servers.
 
 **Python · SQL · JavaScript · React · HTML · CSS · Jupyter Notebooks**
 
-[My projects](#My-projects) · [Project walkthroughs](projects/README.md) · [LinkedIn](https://www.linkedin.com/in/karan-ramesh-83b933189/) · [Email](mailto:rameshkaran66@gmail.com)
+[My projects](#my-projects) · [Project walkthroughs](projects/README.md) · [LinkedIn](https://www.linkedin.com/in/karan-ramesh-83b933189/) · [Email](mailto:rameshkaran66@gmail.com)
 
 ## My Projects
 
